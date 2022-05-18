@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## ยูฟ่าเบท (UFABET) เว็บตรงอันดับ 1 ระบบออโต้ บริการดี
 
-You can use the [editor on GitHub](https://github.com/ufabetcam/ufabetcam.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<a href="https://ufabet.cam/">**ยูฟ่าเบท**</a> (UFABET) ให้บริการเดิมพันกีฬา แทงบอล คาสิโนออนไลน์ สล็อต หวย รับโปรโมชั่นมากที่สุด
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## สมัครยูฟ่าเบท เว็บตรง มั่นใจกว่า
+* เว็บตรง การเงินมั่นคง ไม่มีโกง
+* ถอนได้วันละ 2.5 ล้าน สเต็ปแตก แจ็คพอตแตก มั่นใจได้เงินล้านรวดเร็ว
+* ให้บริการด้วยระบบออโต้ ฝาก-ถอน รวดเร็วทันใจ
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ufabetcam/ufabetcam.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### สมัครสมาชิก ยูฟ่าเบท
+สมัครง่ายๆ เพียงแค่แอด <a href="https://ufabet.cam/">**ไลน์ยูฟ่าเบท**</a> แล้วกดปุ่ม สมัครสมาชิก
